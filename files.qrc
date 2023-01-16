@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons8-стереть-символ-24.png</file>
+    <file>icons8-calculator-32.png</file>
+  </qresource>
+</RCC>
